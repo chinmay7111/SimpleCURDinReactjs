@@ -1,3 +1,30 @@
+## ScreenShot
+
+
+
+![Web capture_16-7-2023_175547_localhost](https://github.com/chinmay7111/SimpleCURDinReactjs/assets/106151106/9a446af1-9381-4839-90a4-538943c1d9c1)
+
+![Web capture_16-7-2023_17593_localhost](https://github.com/chinmay7111/SimpleCURDinReactjs/assets/106151106/b9f763ec-cc61-419e-b596-eca5a90b8292)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
